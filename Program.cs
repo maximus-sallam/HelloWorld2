@@ -39,11 +39,11 @@ namespace HelloWorld
             Console.WriteLine(myInt2);
             
             // Implicit conversion.
-            // Cast int to long.
+            // Cast int to long or vice versa?
             int num3 = 123456789;
             long bigNum = num3;
 
-            // Cast blah blah too tired. Going to sleep..
+            // Cast float to double or vice versa?
             float f3 = 13.37F;
             double d3 = f3;
             
