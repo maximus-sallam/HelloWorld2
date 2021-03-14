@@ -20,7 +20,11 @@ namespace HelloWorld
             
             // This is a float.
             float f1 = 3.5F;
-            float f1 = 
+            float f2 = 3.2F;
+            float sum3 = f1 + f2;
+            
+            // This is a string.
+            string myname = "Max";
             
             Console.WriteLine("The sum of " + num1 + " and " + num2 + " is " + sum1 + ".");
             Console.WriteLine("The sum of " + d1 + " and " + d2 + " is " + sum2 + ".");
