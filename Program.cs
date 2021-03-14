@@ -1,19 +1,26 @@
 ﻿using System;
-
+// This is the HelloWorld name space.
 namespace HelloWorld
 {
+    // This is the Program class.
     class Program
     {
+        // This is where the strings go or something.
         static void Main(string[] args)
         {
+            // This is an integer
             int num1 = 13;
             int num2 = 5;
             int sum1 = num1 + num2;
-            //this is a change
-
+            
+            // This is a double.
             double d1 = 3.5;
             double d2 = 1.337;
             double sum2 = d1 + d2;
+            
+            // This is a float.
+            float f1 = 3.5F;
+            float f1 = 
             
             Console.WriteLine("The sum of " + num1 + " and " + num2 + " is " + sum1 + ".");
             Console.WriteLine("The sum of " + d1 + " and " + d2 + " is " + sum2 + ".");
