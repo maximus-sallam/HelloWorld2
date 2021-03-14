@@ -9,7 +9,7 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             // This is an integer
-            int num1 = 13;
+            int num1 = 32;
             int num2 = 5;
             int sum1 = num1 + num2;
             
@@ -28,8 +28,9 @@ namespace HelloWorld
             
             Console.WriteLine("The sum of " + num1 + " and " + num2 + " is " + sum1 + ".");
             Console.WriteLine("The sum of " + d1 + " and " + d2 + " is " + sum2 + ".");
-            
-            Console.WriteLine(num1);
+            Console.WriteLine("The sum of " + f1 + " and " + f2 + " is " + sum3 + ".");
+            Console.WriteLine("My name is " + myname);
+            Console.WriteLine("I am " + num1 + " years old.");
             Console.Read();
         }
     }

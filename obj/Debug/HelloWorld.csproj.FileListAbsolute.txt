@@ -4,3 +4,9 @@
 /home/haximus/RiderProjects/HelloWorld/obj/Debug/HelloWorld.csproj.CoreCompileInputs.cache
 /home/haximus/RiderProjects/HelloWorld/obj/Debug/HelloWorld.exe
 /home/haximus/RiderProjects/HelloWorld/obj/Debug/HelloWorld.pdb
+/home/haximus/RiderProjects/HelloWorld2/bin/Debug/HelloWorld.exe
+/home/haximus/RiderProjects/HelloWorld2/bin/Debug/HelloWorld.pdb
+/home/haximus/RiderProjects/HelloWorld2/obj/Debug/HelloWorld.csprojAssemblyReference.cache
+/home/haximus/RiderProjects/HelloWorld2/obj/Debug/HelloWorld.csproj.CoreCompileInputs.cache
+/home/haximus/RiderProjects/HelloWorld2/obj/Debug/HelloWorld.exe
+/home/haximus/RiderProjects/HelloWorld2/obj/Debug/HelloWorld.pdb
