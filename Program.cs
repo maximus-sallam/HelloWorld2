@@ -30,12 +30,24 @@ namespace HelloWorld
             string myName = "Max";
             string yourName;
             
+            // Explicit conversion.
             // Cast double to int.
             myInt1 = (int)d2;
             myInt2 = (int)sum2;
             
             Console.WriteLine(myInt1);
             Console.WriteLine(myInt2);
+            
+            // Implicit conversion.
+            // Cast int to long.
+            int num3 = 123456789;
+            long bigNum = num3;
+
+            // Cast blah blah too tired. Going to sleep..
+            float f3 = 13.37F;
+            double d3 = f3;
+            
+            
             
             Console.WriteLine("The sum of " + num1 + " and " + num2 + " is " + sum1 + ".");
             Console.WriteLine("The sum of " + d1 + " and " + d2 + " is " + sum2 + ".");
