@@ -32,7 +32,14 @@ namespace HelloWorld
             Console.WriteLine("The sum of " + f1 + " and " + f2 + " is " + sum3 + ".");
             Console.WriteLine("My name is " + myname);
             Console.WriteLine("I am " + num1 + " years old.");
-            Console.Read();
+            
+            Console.Write("Enter a string and press enter: ");
+            string readInput = Console.ReadLine();
+            Console.WriteLine("You have entered " + readInput);
+
+            Console.Write("Enter a character and press enter: ");
+            int asciiValue = Console.Read();
+            Console.WriteLine("\nASCII value is " + asciiValue);
         }
     }
 }
